@@ -1,7 +1,9 @@
 # Stardew Valley Backup Scripts
 Dumb PowerShell scripts to help with backing up Stardew Valley saves, mostly so Steam doesn't accidentally overwrite you when swapping between computers/users.
 
-In theory, it should find your Stardew Valley saves, then copy them to the C:\Users\Public\Documents\StardewValleySaveBackups (or wherever your Public\Documents lives) in dated folders sorted by Windows user.
+As the above suggests, you need to have PowerShell for this to work. It's been tested on an up-to-date-as-of-this-writing version of Windows 10 and 11 with no issue.
+
+In theory, it should find your Stardew Valley saves, then copy them to C:\Users\Public\Documents\StardewValleySaveBackups (or wherever your Public\Documents lives) in dated folders sorted by Windows user.
 
 It does _not_ sort by Steam user yet, I may make that work in a later enhancement.
 
