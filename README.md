@@ -10,6 +10,6 @@ As is always true, you should review any scripts from the internet before runnin
 To use...
 1. Download the latest version here: [Link](https://codeload.github.com/epyonavenger/stardew_save_backups/zip/refs/heads/main)
 2. Unzip using your favorite unzip tool.
-3. Navigate into "stardew_save_backups-main" and double-click "run_me.bat"
+3. Navigate into "stardew_save_backups-main" you unzipped and double-click "run_me.bat"
 4. Follow the prompts.
 5. Rejoice! (Hopefully)
