@@ -101,4 +101,4 @@ else
 Write-Host "All done!"
 Write-Host ""
 
-Read-Host -Prompt "Press Enter to exit"
+Read-Host -Prompt "Press Enter to exit."
